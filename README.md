@@ -1,9 +1,13 @@
-##Olá pessoal!
+## Ei pessoal 👋
+<a href="https://twitter.com/guismeiram" class="button big">Twitter</a>   
+<a href="https://www.linkedin.com/in/guismeiram/" class="button big">Linkedin</a>
 
-##Meu nome é Guilherme.
+Só aspirante a desenvolvedor Java, já tive o contato com a área como desenvolvedor .net. E, hoje estudo e dedico minhas horas na Tecnologia Java.
 
-<br/>Recentemente me formei em analise e desenvolvimento de sistemas, no momento trabalho C# back-end, só um fã de tecnologias MICROSOFT incondicional. Na horas vagas eu gosto codificar em Java.
+# 🧍 Formado
+#### 🎓 Analise e Desenvolvimento de Sistemas, Unicsul
+#### 🎓 Tecnico em ELetronica, Senai
 
-<br/>No meu repositorio vocês vão ver códigos diversos.
-
-<br/>Bora, conhecer um pouco do meu conhecimento.
+#  💻 Expertise
+#### ✔️ Java Developer
+#### ✔️ .net Developer
