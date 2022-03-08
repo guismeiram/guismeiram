@@ -4,7 +4,11 @@
 
 Só aspirante a desenvolvedor Java, já tive o contato com a área como desenvolvedor .net. E, hoje estudo e dedico minhas horas na Tecnologia Java.
 
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dark&layout=compact)](https://github.com/bariscodefxy)
+
+</div>
 
 # 🧍 Formado
 #### 🎓 Analise e Desenvolvimento de Sistemas, Unicsul
