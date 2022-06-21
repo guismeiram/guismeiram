@@ -4,6 +4,11 @@
 
 Só aspirante a desenvolvedor Java, já tive o contato com a área como desenvolvedor .net. E, hoje estudo e dedico minhas horas nessa stack.
 
+ <div>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+
 # 🧍 Formado
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
@@ -20,10 +25,7 @@ Só aspirante a desenvolvedor Java, já tive o contato com a área como desenvol
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   
   
- <div>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
   
   
 
