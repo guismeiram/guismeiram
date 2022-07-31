@@ -12,6 +12,7 @@ Só aspirante a desenvolvedor Java, já tive o contato com a área como desenvol
 </div>
 
 # 🧍 Formado
+#### 🎓 Pós Graduação em Testes de Software(Cursando)
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
 
