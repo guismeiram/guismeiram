@@ -4,7 +4,9 @@
 <a href="https://www.instagram.com/guismeiram/" class="button big">Instagram</a>
 
 
-Só aspirante a desenvolvedor Java, já tive o contato com a área como desenvolvedor .net. E, hoje estudo e dedico minhas horas nessa stack.
+No Momento trabalho com .Net Core.É uma stack onde já me dedico faz um tempo. E, gostaria de compartilhar um pouco do meu conhecimento com vocês. Neste repositorio vocês também encontraram programas em Java. É uma das minhas paixões, é stack maravilhoso onde já me dediquei e aprende muito.
+
+Então sejam bem vindos!
 
  <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
