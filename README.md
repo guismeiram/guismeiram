@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/guismeiram/" class="button big">Instagram</a>
 
 
-No Momento trabalho com .Net Core.É uma stack onde já me dedico faz um tempo. E, gostaria de compartilhar um pouco do meu conhecimento com vocês. Neste repositorio vocês também encontraram programas em Java. É uma das minhas paixões, é stack maravilhoso onde já me dediquei e aprende muito.
+No Momento trabalho com .Net Core.É uma stack onde já me dedico faz um tempo. E, gostaria de compartilhar um pouco do meu conhecimento com vocês. Neste repositorio vocês também encontraram programas em Java. É uma das minhas paixões, é uma stack maravilhoso onde já me dediquei e aprende muito.
 
 Então sejam bem vindos!
 
