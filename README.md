@@ -14,6 +14,7 @@ Então sejam bem vindos!
    <li>Linq</li>
    <li>DDD</li>
    <li>Teste Unitário(xUnit)</li>
+   <li>Unit Of Work<li/>
 </ul><br>
 
 <b>Banco</b>
