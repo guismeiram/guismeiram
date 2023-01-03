@@ -5,7 +5,7 @@ No Momento trabalho com .Net Core.É uma stack onde já me dedico faz um tempo. 
 Então sejam bem vindos!
 
 # Minhas habilidades: 
-<b>###Soft Skills/Hard Skills</b>
+###Soft Skills/Hard Skills
 <ul>
    <li>Asp.net Core</li>
    <li>Identity </li>
@@ -16,24 +16,24 @@ Então sejam bem vindos!
    <li>Teste Unitário(xUnit)</li>
 </ul><br>
 
-<b>###Banco</b>
+###Banco
 <ul>
    <li>Microsoft SQL Sever </li>
    <li>PostgreSQL</li>
 </ul><br>
 
-<b>###Nuvem</b>
+###Nuvem
 <ul>
    <li>Heroku</li>
    <li>Azure(Iniciando)</li>
 </ul><br>
 
-<b>###Devops</>
+###Devops
 <ul>
    <li>Docker (Iniciando)</li>
 </ul><br>
 
-<b>###Frontend</b>
+###Frontend
 <ul>
    <li>Angular ( me desenvolvendo neste framework front end)</li>
 </ul>
