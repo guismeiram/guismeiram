@@ -33,7 +33,7 @@ Então sejam bem vindos!
    <li>Docker (Iniciando)</li>
 </ul><br>
 
-<b>Frontend</b>
+<b>Frontend<b/>
 <ul>
    <li>Angular ( me desenvolvendo neste framework front end)</li>
 </ul>
