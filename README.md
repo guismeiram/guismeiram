@@ -57,7 +57,7 @@ Nuvem:
 - Azure(Iniciando)
 
 DevOps:
-Docker (Iniciando)
+-Docker (Iniciando)
 
 Frontend 
 - Angular ( me desenvolvendo neste framework front end)
