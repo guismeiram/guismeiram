@@ -4,6 +4,10 @@ No Momento trabalho com .Net Core.É uma stack onde já me dedico faz um tempo. 
 
 Então sejam bem vindos!
 
+#  💻 Expertise
+#### ✔️ Java Developer
+#### ✔️ .net Developer
+
 # Minhas habilidades: 
 <b>Soft Skills/Hard Skills</b>
 <ul>
@@ -14,7 +18,7 @@ Então sejam bem vindos!
    <li>Linq</li>
    <li>DDD</li>
    <li>Teste Unitário(xUnit)</li>
-   <li>Unit Of Work<li/>
+   <li>Unit Of Work</li>
 </ul><br>
 
 <b>Banco</b>
@@ -49,9 +53,7 @@ Então sejam bem vindos!
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
 
-#  💻 Expertise
-#### ✔️ Java Developer
-#### ✔️ .net Developer
+
 
 # Nuvem
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
