@@ -4,6 +4,40 @@ No Momento trabalho com .Net Core.É uma stack onde já me dedico faz um tempo. 
 
 Então sejam bem vindos!
 
+# Minhas habilidades: 
+<b>###Soft Skills/Hard Skills</b>
+<ul>
+   <li>Asp.net Core</li>
+   <li>Identity </li>
+   <li>EntityFramework</li>
+   <li>Razor</li>
+   <li>Linq</li>
+   <li>DDD</li>
+   <li>Teste Unitário(xUnit)</li>
+</ul><br>
+
+<b>###Banco</b>
+<ul>
+   <li>Microsoft SQL Sever </li>
+   <li>PostgreSQL</li>
+</ul><br>
+
+<b>###Nuvem</b>
+<ul>
+   <li>Heroku</li>
+   <li>Azure(Iniciando)</li>
+</ul><br>
+
+<b>###Devops</>
+<ul>
+   <li>Docker (Iniciando)</li>
+</ul><br>
+
+<b>###Frontend</b>
+<ul>
+   <li>Angular ( me desenvolvendo neste framework front end)</li>
+</ul>
+
  <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
@@ -32,39 +66,3 @@ Então sejam bem vindos!
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />  
   </div>
-
- # Minhas habilidades: 
-<b>Soft Skills/Hard Skills</b>
-<ul>
-   <li>Asp.net Core</li>
-   <li>Identity </li>
-   <li>EntityFramework</li>
-   <li>Razor</li>
-   <li>Linq</li>
-   <li>DDD</li>
-   <li>Teste Unitário(xUnit)</li>
-</ul><br>
-
-<b>Banco</b>
-<ul>
-   <li>Microsoft SQL Sever </li>
-   <li>PostgreSQL</li>
-</ul><br>
-
-<b>Nuvem</b>
-<ul>
-   <li>Heroku</li>
-   <li>Azure(Iniciando)</li>
-</ul><br>
-
-<b>Devops</>
-<ul>
-   <li>Docker (Iniciando)</li>
-</ul><br>
-
-<b>Frontend</b>
-<ul>
-   <li>Angular ( me desenvolvendo neste framework front end)</li>
-</ul>
-  
-
