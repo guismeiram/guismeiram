@@ -28,7 +28,7 @@ Então sejam bem vindos!
    <li>Azure(Iniciando)</li>
 </ul><br>
 
-<b>Devops</>
+<b>Devops<b/>
 <ul>
    <li>Docker (Iniciando)</li>
 </ul><br>
