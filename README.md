@@ -41,7 +41,7 @@ Então sejam bem vindos!
 <b>Frontend<b/>
 <ul>
    <li>Angular ( me desenvolvendo neste framework front end)</li>
-</ul>
+</ul><br>
 
  <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
