@@ -53,13 +53,16 @@ Banco:
 - PostgreSQL
 
 Nuvem: 
+
 - Heroku 
 - Azure(Iniciando)
 
 DevOps:
+
 -Docker (Iniciando)
 
 Frontend 
+
 - Angular ( me desenvolvendo neste framework front end)
   
 
