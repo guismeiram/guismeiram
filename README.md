@@ -37,6 +37,29 @@ Então sejam bem vindos!
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />  
   </div>
 
-  
+ # Minhas habilidades: 
+- Web API
+- Asp.net Core 
+- Identity 
+- EntityFramework 
+- Razor 
+- Linq
+- DDD
+- Teste Unitário
+
+Banco: 
+
+- Microsoft SQL Sever 
+- PostgreSQL
+
+Nuvem: 
+- Heroku 
+- Azure(Iniciando)
+
+DevOps:
+Docker (Iniciando)
+
+Frontend 
+- Angular ( me desenvolvendo neste framework front end)
   
 
