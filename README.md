@@ -34,31 +34,37 @@ Então sejam bem vindos!
   </div>
 
  # Minhas habilidades: 
-- Web API
-- Asp.net Core 
-- Identity 
-- EntityFramework 
-- Razor 
-- Linq
-- DDD
-- Teste Unitário
+<b>Soft Skills/Hard Skills</b>
+<ul>
+   <li>Asp.net Core</li>
+   <li>Identity </li>
+   <li>EntityFramework</li>
+   <li>Razor</li>
+   <li>Linq</li>
+   <li>DDD</li>
+   <li>Teste Unitário(xUnit)</li>
+</ul><br>
 
-Banco: 
+<b>Banco</b>
+<ul>
+   <li>Microsoft SQL Sever </li>
+   <li>PostgreSQL</li>
+</ul><br>
 
-- Microsoft SQL Sever 
-- PostgreSQL
+<b>Nuvem</b>
+<ul>
+   <li>Heroku</li>
+   <li>Azure(Iniciando)</li>
+</ul><br>
 
-Nuvem: 
+<b>Devops</>
+<ul>
+   <li>Docker (Iniciando)</li>
+</ul><br>
 
-- Heroku 
-- Azure(Iniciando)
-
-DevOps:
-
--Docker (Iniciando)
-
-Frontend 
-
-- Angular ( me desenvolvendo neste framework front end)
+<b>Frontend</b>
+<ul>
+   <li>Angular ( me desenvolvendo neste framework front end)</li>
+</ul>
   
 
