@@ -32,7 +32,7 @@ Então sejam bem vindos!
 <ul>
    <li>Heroku</li>
    <li>Azure(Iniciando)</li>
-   <li>ElasticSearch</li>
+   <li>ElasticSearch(Iniciando)</li>
 </ul><br>
 
 <b>Devops<b/>
