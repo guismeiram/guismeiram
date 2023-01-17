@@ -17,6 +17,7 @@ Então sejam bem vindos!
    <li>Razor</li>
    <li>Linq</li>
    <li>DDD</li>
+   <li>CQRS</li>
    <li>Teste Unitário(xUnit)</li>
    <li>Unit Of Work</li>
 </ul><br>
