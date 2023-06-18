@@ -24,7 +24,7 @@ Sejam bem vindos!
    <li>Linq</li>
    <li>DDD</li>
    <li>CQRS</li>
-   <li>Teste Unitário(xUnit)</li>
+   <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
    <li>Unit Of Work</li>
 </ul><br>
 
