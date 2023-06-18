@@ -43,6 +43,7 @@ Então sejam bem vindos!
 <b>Frontend<b/>
 <ul>
    <li>Angular ( me desenvolvendo neste framework front end)</li>
+   <li>React ( me desenvolvendo neste framework front end)</li>
 </ul><br>
 
  <div>   
