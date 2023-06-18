@@ -26,7 +26,7 @@ Sejam bem vindos!
    <li>CQRS</li>
    <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
    <li>Unit Of Work</li>
-   <li>Clean Code - Me Desenvolvedo</li>
+   <li>Clean Code - Me Desenvolvendo</li>
 </ul><br>
 
 <b>Banco</b>
