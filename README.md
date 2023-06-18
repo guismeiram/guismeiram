@@ -6,7 +6,7 @@ Então sejam bem vindos!
 
 #  💻 Expertise
 #### ✔️ Java Developer
-#### ✔️ .net Developer
+#### ✔️ .Net Developer
 
 # Minhas habilidades: 
 <b>Soft Skills/Hard Skills</b>
