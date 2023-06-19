@@ -6,7 +6,7 @@ Mais importante, sou uma pessoa que adora aprender tópicos que me levaram a apr
 
 Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs e projetos de Universidade. 
 
-Com isso procuro me desenvolver e também compartilhar meus conhecimentos com outras pessoas. Foi com essa ideia que eu criei este repositorio no github. Foi necessario passagem em outras ferramentas Java para fomramr meu conhecimento, então logo vocês encontraram programas de outras liguagens neste repositorio. Com a liguagem Java me desenvolve bastante esou muito grata a ela. Por isso eu digo.
+Com isso procuro me desenvolver e também compartilhar meus conhecimentos com outras pessoas. Foi com essa ideia que eu criei este repositorio no github. Foi necessario passagem em outras ferramentas Java para fomaram meu conhecimento, então logo vocês encontraram programas de outras liguagens neste repositorio. Com a liguagem Java me desenvolve bastante e sou muito grata a ela. Por isso eu digo.
 
 Sejam bem vindos!
 
