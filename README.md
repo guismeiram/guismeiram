@@ -2,7 +2,7 @@
 
 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/ .𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento já teve contato com a Stack C# e estou me aprofundando cada dia mais para meu Desenvolvimento pessoal e profissional. Aspirante a Full Stack 𝐀𝐒𝐏. 𝐍𝐄𝐓 𝐌𝐕𝐂 desenvolvimento web.
 
-Mais importante, sou uma pessoa que adora aprender tópicos que me levaram a aprender desenvolvimento de software, bem como Ingles e  Espanhol, são linguas que estou iniciando estudos e evoluindo. Moro em São Paulo, cidade Diadema e praticar esportes como corrida de rua, Musculação e também sou fã de espotes de luta como Jiu-jitsu, porém no momento estou parado. Eu desenvolvi vários projetos para me desenvolver como profissional e compartilhar meu conhecimento com outros profissionais. Gerando uma troca de conhecimento e amizades sem fronteiras.
+Mais importante, sou uma pessoa que adora aprender tópicos que me levaram a aprender desenvolvimento de software, bem como Ingles e  Espanhol, são linguas que estou iniciando estudos e evoluindo. Moro em São Paulo, cidade Diadema e praticar esportes como corrida de rua, Musculação e também sou fã de espotes de luta como Jiu-jitsu/kung-fu, porém no momento estou parado. Eu desenvolvi vários projetos para me desenvolver como profissional e compartilhar meu conhecimento com outros profissionais. Gerando uma troca de conhecimento e amizades sem fronteiras.
 
 Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs e projetos de Universidade. 
 
