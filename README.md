@@ -8,32 +8,34 @@ Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre
 
 Com isso procuro me desenvolver e também compartilhar meus conhecimentos com outras pessoas. Foi com essa ideia que eu criei este repositorio no github. Foi necessario passagem em outras ferramentas Java para fomaram meu conhecimento, então logo vocês encontraram programas de outras liguagens neste repositorio. Com a liguagem Java me desenvolve bastante e sou muito grata a ela. Por isso eu digo.
 
-Sejam bem vindos!
+Sejam bem vindos!<br>
 
 #  💻 Expertise
 #### ✔️ Java Developer
-#### ✔️ .Net Developer
+#### ✔️ .Net Developer<br>
 
-# Minhas habilidades: 
-<b>Soft Skills/Hard Skills</b>
+<b>Tools/Frameworks</b>
 <ul>
-   <li>Asp.net Core</li>
-   <li>Identity </li>
-   <li>EntityFramework</li>
-   <li>Razor</li>
-   <li>Linq</li>
-   <li>DDD</li>
-   <li>CQRS</li>
-   <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
-   <li>Unit Of Work</li>
-   <li>Clean Code - Me Desenvolvendo</li>
-</ul><br>
+  <li>C# | .NET & .NET CORE | Razor | ASP.NET MVC </li>
+  <li>Angular (Iniciando Neste Framework)| React(Iniciando Neste Framework)</li>
+  <li>Entity framework | Entity Framework Core</li>
+  <li>SQL Server | PostgreSQL  </li> 
+  <li>Docker for .NET (Iniciando)</li>
+</ul>
 
-<b>Banco</b>
+<b>Knowledges</b>
 <ul>
-   <li>Microsoft SQL Sever </li>
-   <li>PostgreSQL</li>
-</ul><br>
+  <li>DDD(Iniciando)</li>
+  <li>MVC</li>
+  <li>SOLID(Iniciando)</li>
+  <li>Clean Code(Iniciando)</li>
+  <li>Design pattherns (Iniciando)</li> 
+</ul>
+
+## Contact
+</br>
+   <p>Email: guismeiram@gmail.com</p>
+<div> 
 
 <b>Nuvem</b>
 <ul>
@@ -42,21 +44,12 @@ Sejam bem vindos!
    <li>ElasticSearch(Iniciando)</li>
 </ul><br>
 
-<b>Devops<b/>
-<ul>
-   <li>Docker (Iniciando)</li>
-</ul><br>
-
-<b>Frontend<b/>
-<ul>
-   <li>Angular ( me desenvolvendo neste framework front end)</li>
-   <li>React ( me desenvolvendo neste framework front end)</li>
-</ul><br>
-
- <div>   
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+
 
 # 🧍 Formado
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
