@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento, já teve contato com a Stack C# como Freelacer atualmente desenvolvo um sistema para Bicicletaria e também teve contato em empresas privadas. Atualmente procuro vagas como Junior. Procuro sempre realizar alguma contribuição para a comunidade postando projetos no linkedine, github ou interagindo em grupos de WhatsApp ou Telegram. 
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento, já teve contato com a Stack C# em empresas e atualmente procuro Freelacer,  construindo o sistema para controle de estoque SESCON. Procuro vagas como Junior. Sempre realizar alguma contribuição para a comunidade postando projetos no linkedin, github ou interagindo em grupos de WhatsApp/Telegram. 
 
  
 Mais importante, sou uma pessoa que adora aprender tópicos sobre desenvolvimento de software, bem como inglês e espanhol, são línguas que estou iniciando estudos. Moro em São Paulo, cidade Diadema e gosto de praticar esportes como corrida de rua, Musculação e também sou fã de esportes de lutas como Jiu-jitsu/kung-fu. Eu desenvolvi vários projetos para me desenvolver como profissional. 
@@ -9,8 +9,6 @@ Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre
  
 Foi com essa ideia que eu criei o Linkedin. Além de ser uma porta de entradas para o ambiente de trabalho, força o usuário a realizar interação, com pessoas do mesmo objetivo. Gerando evolução em metodologias de trabalho e também como ser humano. Assim colaborando com o aprendizado de habilidades técnica através de projetos postados em diversas linguagens. Gerando uma grande troca de informações. Por isso eu digo a vocês. 
  
-Sejam bem-vindos!
-
 Sejam bem-vindos!  <br>
 
 #  💻 Expertise
