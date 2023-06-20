@@ -19,20 +19,21 @@ Sejam bem vindos!<br>
 <b>Tools/Frameworks</b>
 <ul>
   <li>C# | .NET & .NET CORE | Razor | ASP.NET MVC </li>
-  <li>Angular (Iniciando Neste Framework)| React(Iniciando Neste Framework)</li>
+  <li>Angular - Iniciando Neste Framework| React - Iniciando Neste Framework</li>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
-  <li>Docker for .NET (Iniciando)</li>
+  <li>Docker for .NET - Iniciando</li>
   <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
 </ul>
 
 <b>Knowledges</b>
 <ul>
-  <li>DDD(Iniciando)</li>
+  <li>DDD - Iniciando</li>
+  <li>CQRS - Iniciando</li>
   <li>MVC</li>
-  <li>SOLID(Iniciando)</li>
+  <li>SOLID - Iniciando</li>
   <li>Clean Code(Iniciando)</li>
-  <li>Design pattherns (Iniciando)</li> 
+  <li>Design pattherns - Iniciando</li> 
   <li>Unit Of Work</li>
 </ul>
 
