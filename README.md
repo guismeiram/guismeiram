@@ -14,6 +14,8 @@ Sejam bem vindos!<br>
 #### ✔️ Java Developer
 #### ✔️ .Net Developer<br>
 
+## HARD and SOFT SKILLS:
+
 <b>Tools/Frameworks</b>
 <ul>
   <li>C# | .NET & .NET CORE | Razor | ASP.NET MVC </li>
