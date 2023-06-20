@@ -35,9 +35,7 @@ Sejam bem vindos!<br>
 </ul>
 
 ## Contact
-</br>
    <p>Email: guismeiram@gmail.com</p>
-<div> 
 
 <b>Nuvem</b>
 <ul>
