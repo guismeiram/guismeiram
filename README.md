@@ -1,14 +1,14 @@
 ## Olá pessoal 👋
 
-𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/ .𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento já teve contato com a Stack C# e estou me aprofundando cada dia mais para meu Desenvolvimento pessoal e profissional. Aspirante a Full Stack 𝐀𝐒𝐏. 𝐍𝐄𝐓 𝐌𝐕𝐂 desenvolvimento web.
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento, já teve contato com a Stack C# e estou me aprofundando cada dia mais para meu Desenvolvimento pessoal e profissional.  
 
-Mais importante, sou uma pessoa que adora aprender tópicos que me levaram a aprender desenvolvimento de software, bem como Ingles e  Espanhol, são linguas que estou iniciando estudos e evoluindo. Moro em São Paulo, cidade Diadema e praticar esportes como corrida de rua, Musculação e também sou fã de espotes de luta como Jiu-jitsu/kung-fu, porém no momento estou parado. Eu desenvolvi vários projetos para me desenvolver como profissional e compartilhar meu conhecimento com outros profissionais. Gerando uma troca de conhecimento e amizades sem fronteiras.
+Mais importante, sou uma pessoa que adora aprender tópicos que sobre desenvolvimento de software, bem como inglês e espanhol, são línguas que estou iniciando estudos e evoluindo. Moro em São Paulo, cidade Diadema e gosto de praticar esportes como corrida de rua, Musculação e também sou fã de esportes de luta como Jiu-jitsu/kung-fu. Eu desenvolvi vários projetos para me desenvolver como profissional e compartilhar meu conhecimento com outros profissionais. Gerando uma troca de conhecimento e amizades sem fronteiras. 
 
-Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs e projetos de Universidade. 
+Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs, projetos de Universidade e conquistando experiência necessária para conquistar vagas de emprego como 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. 
 
-Com isso procuro me desenvolver e também compartilhar meus conhecimentos com outras pessoas. Foi com essa ideia que eu criei este repositorio no github. Foi necessario passagem em outras ferramentas Java para fomaram meu conhecimento, então logo vocês encontraram programas de outras liguagens neste repositorio. Com a liguagem Java me desenvolve bastante e sou muito grata a ela. Por isso eu digo.
+Com essa troca de conhecimento procuro sempre realizar mudanças nas minhas aplicações, para acompanhar o mercado e sempre evoluir. Foi com essa ideia que eu criei este repositório no github. Foi necessário passagem em outras ferramentas Java para me lapidar o meu conhecimento, então logo vocês encontraram programas de outras linguagens neste repositório. Com a linguagem Java me desenvolve bastante e sou muito grata a ela, foram projetos que me deram uma boa base para criar e dar manutenção em projetos C#. Por isso eu digo. 
 
-Sejam bem vindos!<br>
+Sejam bem-vindos!<br>
 
 #  💻 Expertise
 #### ✔️ Java Developer
