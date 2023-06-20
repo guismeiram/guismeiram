@@ -19,7 +19,7 @@ Sejam bem vindos!<br>
 <b>Tools/Frameworks</b>
 <ul>
   <li>C# | .NET & .NET CORE | Razor | ASP.NET MVC </li>
-  <li>Angular - Iniciando Neste Framework| React - Iniciando Neste Framework</li>
+  <li>Angular - Me Desenvolvedo neste Framework| React - Me Desenvolvedo neste Framework/li>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
   <li>Docker for .NET - Iniciando</li>
@@ -32,7 +32,7 @@ Sejam bem vindos!<br>
   <li>CQRS - Iniciando</li>
   <li>MVC</li>
   <li>SOLID - Iniciando</li>
-  <li>Clean Code(Iniciando)</li>
+  <li>Clean Code - Iniciando</li>
   <li>Design pattherns - Iniciando</li> 
   <li>Unit Of Work</li>
 </ul>
