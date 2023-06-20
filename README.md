@@ -26,7 +26,7 @@ Sejam bem vindos!<br>
   <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
 </ul>
 
-<b>Tools/Frameworks - Agora meu foco é c#, porém foi muito util para o meu desenvolvimento</b>
+<b>Tools/Frameworks em Java - Agora meu foco é c#, porém foi muito util para o meu desenvolvimento a liguagem e seus conceitos</b>
 <ul>
   <li>Java </li>
   <li>Consumo de Serviço </li>
