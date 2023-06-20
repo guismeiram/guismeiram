@@ -23,6 +23,7 @@ Sejam bem vindos!<br>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
   <li>Docker for .NET (Iniciando)</li>
+  <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
 </ul>
 
 <b>Knowledges</b>
@@ -32,6 +33,7 @@ Sejam bem vindos!<br>
   <li>SOLID(Iniciando)</li>
   <li>Clean Code(Iniciando)</li>
   <li>Design pattherns (Iniciando)</li> 
+  <li>Unit Of Work</li>
 </ul>
 
 ## Contact
