@@ -26,6 +26,15 @@ Sejam bem vindos!<br>
   <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
 </ul>
 
+<b>Habilidades em Java/Agora meu foco é c#, porém foi muito util para meu desenvolvimento</b>
+<ul>
+  <li>Java </li>
+  <li><Consumo de Serviço </li>
+  <li>Sping Boot </li>
+  <li>Web Scraping | Crawler </li> 
+  <li>Autenticação</li>
+</ul>
+    
 <b>Knowledges</b>
 <ul>
   <li>DDD - Iniciando</li>
