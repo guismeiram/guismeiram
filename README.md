@@ -26,17 +26,6 @@ Sejam bem-vindos!  <br>
   <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
 </ul>
 
-<b>Tools/Frameworks em Java - Agora meu foco é c#, porém foi muito util para o meu desenvolvimento a liguagem e seus conceitos</b>
-<ul>
-  <li>Java </li>
-  <li>Consumo de Serviço </li>
-  <li>Spring Boot </li>
-  <li>Web Scraping | Crawler </li> 
-  <li>Autenticação</li>
-  <li>Eclipse | Intellij</li>
-  <li>ModelMapper</li>
-</ul>
-    
 <b>Knowledges</b>
 <ul>
   <li>DDD - Iniciando</li>
@@ -46,6 +35,17 @@ Sejam bem-vindos!  <br>
   <li>Clean Code - Iniciando</li>
   <li>Design pattherns - Iniciando</li> 
   <li>Unit Of Work</li>
+</ul>
+
+<b>Tools/Frameworks em Java - Agora meu foco é c#, porém foi muito util para o meu desenvolvimento a liguagem e seus conceitos</b>
+<ul>
+  <li>Java </li>
+  <li>Consumo de Serviço </li>
+  <li>Spring Boot </li>
+  <li>Web Scraping | Crawler </li> 
+  <li>Autenticação</li>
+  <li>Eclipse | Intellij</li>
+  <li>ModelMapper</li>
 </ul>
 
 ## Contact
