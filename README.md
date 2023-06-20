@@ -43,8 +43,8 @@ Sejam bem vindos!<br>
 ##  Nuvem
 <ul>
    <li>Heroku</li>
-   <li>Azure(Iniciando)</li>
-   <li>ElasticSearch(Iniciando)</li>
+   <li>Azure - Iniciando</li>
+   <li>ElasticSearch - Iniciando</li>
 </ul><br>
 
 <div>
