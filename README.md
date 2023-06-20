@@ -7,7 +7,7 @@ Mais importante, sou uma pessoa que adora aprender tópicos sobre desenvolviment
  
 Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs, projetos de Universidade e conquistando experiência necessária para conquistar vagas de emprego como 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. 
  
-Foi com essa ideia que eu criei o Linkedin. Além de ser uma porta de entradas para o ambiente de trabalho, força o usuário a realizar interação, com pessoas do mesmo objetivo. Gerando evolução em metodologias de trabalho e também como ser humano. Assim colaborando com o aprendizado de habilidades técnica através de projetos postados em diversas linguagens. Gerando uma grande troca de informações. Por isso eu digo a vocês. 
+Foi com essa ideia que eu criei o Github. Além de ser uma porta de entradas para o ambiente de trabalho, força o usuário a realizar interação, com pessoas do mesmo objetivo. Gerando evolução em metodologias de trabalho e também como ser humano. Assim colaborando com o aprendizado de habilidades técnica através de projetos postados em diversas linguagens. Gerando uma grande troca de informações. Por isso eu digo a vocês. 
  
 Sejam bem-vindos!  <br>
 
