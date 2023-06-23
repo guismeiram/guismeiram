@@ -35,7 +35,8 @@ Sejam bem-vindos!  <br>
   <li>SOLID - Iniciando</li>
   <li>Clean Code - Iniciando</li>
   <li>Design pattherns - Iniciando</li> 
-  <li>Unit Of Work</li>
+  <li>Swagger</li>
+  <li>Automapper</li>
 </ul>
 
 <b>Tools/Frameworks em Java - Agora meu foco é c#, porém foi muito util para o meu desenvolvimento a liguagem e seus conceitos</b>
