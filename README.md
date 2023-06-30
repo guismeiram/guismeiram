@@ -24,13 +24,13 @@ Sejam bem-vindos!  <br>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
   <li>Docker for .NET - Iniciando</li>
-  <li>Teste Unitário(xUnit e NUnit) - Me Desenvolvedo nesta Ferramenta</li>
+  <li>Teste Unitário - xUnit e NUnit - Me Desenvolvedo nesta Ferramenta</li>
 </ul>
 
 <b>Knowledges</b>
 <ul>
-  <li>DDD - Iniciando</li>
-  <li>CQRS - Iniciando</li>
+  <li>DDD</li>
+  <li>CQRS</li>
   <li>MVC</li>
   <li>SOLID - Iniciando</li>
   <li>Clean Code - Iniciando</li>
