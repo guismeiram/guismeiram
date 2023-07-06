@@ -50,8 +50,10 @@ Sejam bem-vindos!  <br>
   <li>ModelMapper</li>
 </ul>
 
-## Contact
-   <p>Email: guismeiram@gmail.com</p>
+## Observações
+<b>O INCIANDO que eu coloquei em algumas ferramentas, framework e habilidades. Não quer dizer que eu não sei nada, mais que eu comecei a 
+poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mais para entregar o produto final. Por isso eu coloquei o Iniciando,
+não tenho dominio por completo.</b><br>
 
 ##  Nuvem
 <ul>
@@ -60,10 +62,7 @@ Sejam bem-vindos!  <br>
    <li>ElasticSearch - Iniciando</li>
 </ul><br>
 
-## Observações
-<b>O INCIANDO que eu coloquei em algumas ferramentas, framework e habilidades. Não quer dizer que eu não sei nada, mais que eu comecei a 
-poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mais para entregar o produto final. Por isso eu coloquei o Iniciando,
-não tenho dominio por completo.</b><br>
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -77,7 +76,8 @@ não tenho dominio por completo.</b><br>
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
 
-
+## Contact
+   <p>Email: guismeiram@gmail.com</p>
 
 # Nuvem
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
