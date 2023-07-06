@@ -20,7 +20,7 @@ Sejam bem-vindos!  <br>
 <b>Tools/Frameworks</b>
 <ul>
   <li>C# | .NET & .NET CORE | Razor | ASP.NET MVC </li>
-  <li>Angular - Iniciando | React - Iniciando/li>
+  <li>Angular - Iniciando | React - Iniciando</li>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
   <li>Docker for .NET - Iniciando</li>
