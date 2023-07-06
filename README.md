@@ -63,7 +63,7 @@ poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mai
 não tenho dominio por completo.</b><br>
 
 ## Contact
-   <p>Email: guismeiram@gmail.com</p><br><br>
+   <p>Email: guismeiram@gmail.com</p><br>
 
 
 <p><div>
