@@ -11,6 +11,11 @@ Foi com essa ideia que eu criei o Github. Além de ser uma porta de entradas par
  
 Sejam bem-vindos!  <br>
 
+<p><div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
+</div></p>
+
 #  💻 Expertise
 #### <p>✔️ Java Developer</p>
 #### <p>✔️ .Net Developer</p>
@@ -64,14 +69,6 @@ não tenho dominio por completo.</b><br>
 
 ## Contact
    <p>Email: guismeiram@gmail.com</p><br>
-
-
-<p><div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
-</div></p>
-
-
 
 # 🧍 Formado
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
