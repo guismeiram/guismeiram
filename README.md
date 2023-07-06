@@ -54,7 +54,7 @@ Sejam bem-vindos!  <br>
    <li>Heroku</li>
    <li>Azure - Iniciando</li>
    <li>ElasticSearch - Iniciando</li>
-</ul><br>
+</ul>
 
 ## Observações
 <b>O INCIANDO que eu coloquei em algumas ferramentas, framework e habilidades. Não quer dizer que eu não sei nada, mais que eu comecei a 
