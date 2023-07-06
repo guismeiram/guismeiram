@@ -49,7 +49,7 @@ Sejam bem-vindos!  <br>
   <li>Eclipse | Intellij</li>
   <li>ModelMapper</li>
 </ul>
-##  Nuvem
+## Nuvem
 <ul>
    <li>Heroku</li>
    <li>Azure - Iniciando</li>
@@ -62,7 +62,7 @@ poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mai
 não tenho dominio por completo.</b><br>
 
 ## Contact
-   <p>Email: guismeiram@gmail.com</p>
+   <p>Email: guismeiram@gmail.com</p><br><br>
 
 
 <p><div>
