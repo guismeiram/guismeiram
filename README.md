@@ -20,7 +20,7 @@ Sejam bem-vindos!  <br>
 <b>Tools/Frameworks</b>
 <ul>
   <li>C# | .NET & .NET CORE | Razor | ASP.NET MVC </li>
-  <li>Angular - Me Desenvolvedo neste Framework| React - Me Desenvolvedo neste Framework/li>
+  <li>Angular - Iniciando | React - Iniciando/li>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
   <li>Docker for .NET - Iniciando</li>
@@ -59,6 +59,10 @@ Sejam bem-vindos!  <br>
    <li>Azure - Iniciando</li>
    <li>ElasticSearch - Iniciando</li>
 </ul><br>
+
+Obs: O INCIANDO que eu coloquei em algumas ferramentas, framework e habilidades. Não quer dizer que eu não sei nada, mais que eu comecei a 
+poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mais para entregar o produto final. Por isso eu coloquei o Iniciando,
+não tenho dominio por completo.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
