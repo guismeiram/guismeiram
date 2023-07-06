@@ -12,7 +12,7 @@ Foi com essa ideia que eu criei o Github. Além de ser uma porta de entradas par
 Sejam bem-vindos!  <br>
 
 #  💻 Expertise
-#### ✔️ Java Developer
+#### ✔️ Java Developer<br>
 #### ✔️ .Net Developer<br>
 
 ## HARD and SOFT SKILLS:
