@@ -49,18 +49,19 @@ Sejam bem-vindos!  <br>
   <li>Eclipse | Intellij</li>
   <li>ModelMapper</li>
 </ul>
-
-## Observações
-<b>O INCIANDO que eu coloquei em algumas ferramentas, framework e habilidades. Não quer dizer que eu não sei nada, mais que eu comecei a 
-poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mais para entregar o produto final. Por isso eu coloquei o Iniciando,
-não tenho dominio por completo.</b><br>
-
 ##  Nuvem
 <ul>
    <li>Heroku</li>
    <li>Azure - Iniciando</li>
    <li>ElasticSearch - Iniciando</li>
 </ul><br>
+
+## Observações
+<b>O INCIANDO que eu coloquei em algumas ferramentas, framework e habilidades. Não quer dizer que eu não sei nada, mais que eu comecei a 
+poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mais para entregar o produto final. Por isso eu coloquei o Iniciando,
+não tenho dominio por completo.</b><br>
+
+
 
 
 
