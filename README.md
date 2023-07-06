@@ -68,14 +68,12 @@ poucos meses e tenho uma ideia de como fazer a aplicação, e isso demoraria mai
 não tenho dominio por completo.</b><br>
 
 ## Contact
-   <p>Email: guismeiram@gmail.com</p><br>
+   <p>Email: guismeiram@gmail.com</p>
 
 # 🧍 Formado
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
-
-
 
 # Nuvem
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
