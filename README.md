@@ -22,9 +22,7 @@ Sejam bem-vindos!  <br>
    <img height="48" width="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
-   <img height="48" width="48" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
-
 
 ##  💻 Expertise
 #### <p>✔️ Java Developer</p>
