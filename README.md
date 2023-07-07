@@ -80,7 +80,7 @@ não tenho dominio por completo.</b><br>
 ## Contact
    <p>Email: guismeiram@gmail.com</p>
 
-# 🧍 Formado
+# 🧍 Formação
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
