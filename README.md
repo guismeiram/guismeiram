@@ -16,6 +16,16 @@ Sejam bem-vindos!  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=highcontrast"/>
 </div></p>
 
+<div style="text-align: center">
+   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img height="48" width="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
+   <img height="48" width="48" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</div>
+
+
 #  💻 Expertise
 #### <p>✔️ Java Developer</p>
 #### <p>✔️ .Net Developer</p>
@@ -74,15 +84,3 @@ não tenho dominio por completo.</b><br>
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
-
-# Nuvem
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
- 
-# Linguagens
-<div style="text-align: center">
-    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img height="48" width="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />  
-</div>
