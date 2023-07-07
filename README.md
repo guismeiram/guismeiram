@@ -26,7 +26,7 @@ Sejam bem-vindos!  <br>
 </div>
 
 
-#  💻 Expertise
+##  💻 Expertise
 #### <p>✔️ Java Developer</p>
 #### <p>✔️ .Net Developer</p>
 
@@ -80,7 +80,7 @@ não tenho dominio por completo.</b><br>
 ## Contact
    <p>Email: guismeiram@gmail.com</p>
 
-# Formação
+## Formação
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
