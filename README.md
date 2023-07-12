@@ -37,7 +37,7 @@ Sejam bem-vindos!  <br>
   <li>Entity framework | Entity Framework Core</li>
   <li>SQL Server | PostgreSQL  </li> 
   <li>Docker for .NET - Iniciando</li>
-  <li>Teste Unitário - xUnit e NUnit - Me Desenvolvedo nesta Ferramenta</li>
+  <li>Teste Unitário - xUnit e NUnit - Iniciando</li>
 </ul>
 
 <b>Knowledges</b>
