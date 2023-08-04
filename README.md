@@ -79,7 +79,7 @@ não tenho dominio por completo.</b><br>
    <p>Email: guismeiram@gmail.com</p>
 
 ## Formação
-#### 🎓 Informatica para Negocios, Fatec
+#### 🎓 Informatica para Negocios(Cursando), Fatec
 #### 🎓 Pós-Graduação em Testes de Software(Cursando), Unicsul
 #### 🎓 Análise e Desenvolvimento de Sistemas, Unicsul
 #### 🎓 Tecnico em Eletrônica, Senai
