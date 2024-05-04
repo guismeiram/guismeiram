@@ -1,4 +1,4 @@
-<center><p>Minha Jornada como Desenvolvedor Full Stack C#/.NET</p></center>
+<div style="text-align: center"><p>Minha Jornada como Desenvolvedor Full Stack C#/.NET</p></div>
 
 <p>Olá a todos! Sejam bem-vindos ao meu perfil no GitHub. Aqui, compartilho minha jornada como desenvolvedor Full Stack, minhas paixões e projetos em que tenho trabalhado.</p>
 
