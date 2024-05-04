@@ -24,15 +24,15 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
 
 <b>Redes Sociais:</b>
 <ul>
-  <li>-Medium: https://medium.com/@guismeiram</li>
-  <li>-Dev.to: https://dev.to/guismeiram</li>
-  <li>-Github: https://github.com/guismeiram</li>
+  <li>Medium: https://medium.com/@guismeiram</li>
+  <li>Dev.to: https://dev.to/guismeiram</li>
+  <li>Github: https://github.com/guismeiram</li>
 </ul>
 
 <b>Contato</b>
 <ul>
-  <li></li>-Email: guismeiram@gmail.com</li>
-  <li>-Fone: 11976491401</li>
+  <li></li>Email: guismeiram@gmail.com</li>
+  <li>Fone: 11976491401</li>
 </ul>
 
 <div align="center">
