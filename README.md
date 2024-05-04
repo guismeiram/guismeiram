@@ -1,4 +1,4 @@
-<b>Minha Jornada como Desenvolvedor Full Stack C#/.NET<br>
+<center><b>Minha Jornada como Desenvolvedor Full Stack C#/.NET<br></center>
 
 <p>Olá a todos! Sejam bem-vindos ao meu perfil no GitHub. Aqui, compartilho minha jornada como desenvolvedor Full Stack, minhas paixões e projetos em que tenho trabalhado.</p>
 
@@ -19,7 +19,7 @@ Minha paixão pelo aprendizado é o que me impulsiona. Estou sempre em busca de 
 <p>
 Além do trabalho, sou um entusiasta de atividades físicas. Participar de corridas de rua, manter-me em forma com musculação e praticar artes marciais como Jiu-jitsu e kung-fu são partes essenciais da minha vida. Essas atividades não apenas mantêm meu corpo saudável, mas também proporcionam um equilíbrio necessário entre minha vida profissional e pessoal.</p>
 
-<p>>
+<p>
 Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. Estou ansioso para enfrentar novos desafios, colaborar com outros profissionais e continuar crescendo. Se você tiver alguma pergunta ou quiser saber mais sobre meus projetos, sinta-se à vontade para entrar em contato!</p>
 
 <b>Redes Sociais:</b>
