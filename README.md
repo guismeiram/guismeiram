@@ -30,7 +30,7 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
   <li>Dev.to: https://dev.to/guismeiram</li>
 </ul>
 
-<b>Contato</b>
+<b>Contato:</b>
 <ul>
   <li>Email: guismeiram@gmail.com</li>
   <li>Fone: 11976491401</li>
