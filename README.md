@@ -26,8 +26,8 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
 <ul>
   <li>Medium: https://medium.com/@guismeiram</li>
   <li>Github: https://github.com/guismeiram</li>
-  <li>Dev.to: https://dev.to/guismeiram</li>
   <li>YouTube: www.youtube.com/@Guismeiram</li>
+  <li>Dev.to: https://dev.to/guismeiram</li>
 </ul>
 
 <b>Contato</b>
