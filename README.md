@@ -58,3 +58,18 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
   <li>Email: guismeiram@gmail.com</li>
   <li>Fone: 11976491401</li>
 </ul>
+
+#
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑 : </strong>
+</summary>
+<br>
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/guismeiram/guismeiram/blob/master/SVG/guis%20mei%20ram's%20github-contribution-grid-snake.svg)
+  ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+</details>
+<br/>
