@@ -22,6 +22,8 @@ Além do trabalho, sou um entusiasta de atividades físicas. Participar de corri
 <p>
 Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. Estou ansioso para enfrentar novos desafios, colaborar com outros profissionais e continuar crescendo. Se você tiver alguma pergunta ou quiser saber mais sobre meus projetos, sinta-se à vontade para entrar em contato!</p>
 
+# 
+
 <b>Redes Sociais:</b>
 <ul>
   <li>Medium: https://medium.com/@guismeiram</li>
@@ -30,11 +32,7 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
   <li>Dev.to: https://dev.to/guismeiram</li>
 </ul>
 
-<b>Contato:</b>
-<ul>
-  <li>Email: guismeiram@gmail.com</li>
-  <li>Fone: 11976491401</li>
-</ul>
+# 
 
 <div align="center">
   <a href="https://github.com/guismeiram">
@@ -42,6 +40,7 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+# 
 
 <div style="text-align: center">
   </br>
@@ -52,15 +51,10 @@ Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. 
   <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑 : </strong>
-</summary>
-<br>
+# 
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/guismeiram/blob/master/SVG/The%20ashish%20gavade's%20github-contribution-grid-snake.svg)
-  ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-</details>
+<b>Contato:</b>
+<ul>
+  <li>Email: guismeiram@gmail.com</li>
+  <li>Fone: 11976491401</li>
+</ul>
