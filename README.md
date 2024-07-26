@@ -1,26 +1,9 @@
 <p><div align="center"><b>Minha Jornada como Desenvolvedor Full Stack C#/.NET</b></div></p>
 
-<p>Olá a todos! Sejam bem-vindos ao meu perfil no GitHub. Aqui, compartilho minha jornada como desenvolvedor Full Stack, minhas paixões e projetos em que tenho trabalhado.</p>
+<p>Olá a todos! Sejam bem-vindos ao meu perfil no GitHub. 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento, já teve contato com a Stack C# em empresas e atualmente procuro freelance, construindo o sistema para controle de estoque SESCON. Procuro vagas como Junior, com intuito de pegar experiência e gerar valor a empresas.</p>
+<p>Mais importante, sou uma pessoa que adora aprender tópicos sobre desenvolvimento de software, bem como inglês e espanhol, são línguas que estou iniciando estudos. Moro em São Paulo, cidade Diadema e gosto de praticar esportes como corrida de rua, Musculação e também sou fã de esportes de lutas como Jiu-jitsu/kung-fu. Eu desenvolvi vários projetos para me desenvolver como profissional.</p>
+<p>Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs, projetos de Universidade e conquistando experiência necessária para conquistar vagas de emprego como 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</p>
 
-<p>
-Meu nome é Guilherme Mendes, e sou um entusiasta da tecnologia com sede em São Paulo, Diadema. Desde cedo, fui fascinado pelo mundo da programação e decidi seguir uma carreira como desenvolvedor. Minha jornada tem sido repleta de desafios, aprendizado constante e crescimento profissional.</p>
-
-<p>
-Meu nome é Guilherme Mendes, e sou um entusiasta da tecnologia com sede em São Paulo, Diadema. Desde cedo, fui fascinado pelo mundo da programação e decidi seguir uma carreira como desenvolvedor. Minha jornada tem sido repleta de desafios, aprendizado constante e crescimento profissional.</p>
-
-<p>Um dos projetos mais significativos em que estou envolvido é o sistema de controle de estoque SESCON. Esse projeto exige atenção meticulosa aos detalhes, uma compreensão profunda das necessidades dos usuários e a capacidade de criar soluções eficientes. Estou orgulhoso do progresso que fizemos até agora e continuo empenhado em aprimorar essa aplicação.</p>
-
-<p>
- Acredito que cada nova posição é uma chance de adquirir experiência valiosa e contribuir de forma tangível para a organização. Estou em busca de vagas de nível Júnior, onde posso aplicar minhas habilidades e aprender com profissionais experientes.</p>
-
-<p>
-Minha paixão pelo aprendizado é o que me impulsiona. Estou sempre em busca de novos conhecimentos e técnicas no campo do desenvolvimento de software. Recentemente, comecei a estudar inglês e espanhol, reconhecendo a importância da comunicação global no setor de tecnologia. Esses idiomas não apenas me ajudam a me conectar com colegas de todo o mundo, mas também me mantêm atualizado com as tendências e práticas mais recentes.</p>
-
-<p>
-Além do trabalho, sou um entusiasta de atividades físicas. Participar de corridas de rua, manter-me em forma com musculação e praticar artes marciais como Jiu-jitsu e kung-fu são partes essenciais da minha vida. Essas atividades não apenas mantêm meu corpo saudável, mas também proporcionam um equilíbrio necessário entre minha vida profissional e pessoal.</p>
-
-<p>
-Minha jornada como desenvolvedor tem sido emocionante e repleta de aprendizado. Estou ansioso para enfrentar novos desafios, colaborar com outros profissionais e continuar crescendo. Se você tiver alguma pergunta ou quiser saber mais sobre meus projetos, sinta-se à vontade para entrar em contato!</p>
 
 # 
 
