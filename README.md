@@ -1,8 +1,6 @@
 <p><div align="center"><b>Minha Jornada como Desenvolvedor Full Stack C#/.NET</b></div></p>
 
-<p>Olá a todos! Sejam bem-vindos ao meu perfil no GitHub. 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 em desenvolvimento, já teve contato com a Stack C# em empresas e atualmente procuro freelance, construindo o sistema para controle de estoque SESCON. Procuro vagas como Junior, com intuito de pegar experiência e gerar valor a empresas.</p>
-<p>Mais importante, sou uma pessoa que adora aprender tópicos sobre desenvolvimento de software, bem como inglês e espanhol, são línguas que estou iniciando estudos. Moro em São Paulo, cidade Diadema e gosto de praticar esportes como corrida de rua, Musculação e também sou fã de esportes de lutas como Jiu-jitsu/kung-fu. Eu desenvolvi vários projetos para me desenvolver como profissional.</p>
-<p>Além disso, adoro desenvolver e aprimorar minhas habilidades em meu tempo livre, portanto, ganhei muita experiência criando APIs, projetos de Universidade e conquistando experiência necessária para conquistar vagas de emprego como 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐂#/. 𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</p>
+<p>Full Stack C#/.NET Developer em desenvolvimento, com experiência prévia em empresas e atualmente desenvolvendo um sistema de controle de estoque SESCON como freelancer. Busco vagas como desenvolvedor júnior, com o objetivo de ganhar experiência e agregar valor às empresas. Sou apaixonado por aprender tópicos relacionados a desenvolvimento de software, além de estar iniciando estudos em inglês e espanhol. Resido em Diadema, São Paulo, e já desenvolvi diversos projetos para aprimorar minhas habilidades, como APIs e projetos universitários, buscando conquistar uma posição como Full Stack C#/.NET Developer.</p>
 
 
 # 
