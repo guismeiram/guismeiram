@@ -1,6 +1,4 @@
-<p><div align="center"><b>Minha Jornada como Desenvolvedor Full Stack C#/.NET</b></div></p>
 
-<p>Full Stack C#/.NET Developer em desenvolvimento, com experiência prévia em empresas e atualmente desenvolvendo um sistema de controle de estoque SESCON como freelancer. Busco vagas como desenvolvedor júnior, com o objetivo de ganhar experiência e agregar valor às empresas. Sou apaixonado por aprender tópicos relacionados a desenvolvimento de software, além de estar iniciando estudos em inglês e espanhol. Resido em Diadema, São Paulo, e já desenvolvi diversos projetos para aprimorar minhas habilidades, como APIs e projetos universitários, buscando conquistar uma posição como Full Stack C#/.NET Developer.</p>
 
 
 # 
