@@ -53,11 +53,10 @@ Acredito na importância da versatilidade tecnológica e de estar sempre aprende
 ---
 
 ### 📊 Estatísticas do GitHub
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&theme=radical)
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guismeiram&show_icons=true&theme=radical&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismeiram&layout=compact&theme=radical"/>
+</div>
 
 ### 🗂️ Projetos
 
