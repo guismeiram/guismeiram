@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner / Header -->
 <h1 align="center">👋 Olá, eu sou Guilherme Mendes Ramalho</h1>
 <h3 align="center">Desenvolvedor Full Stack .NET | Java | Spring Boot | React</h3>
