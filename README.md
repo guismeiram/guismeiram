@@ -131,4 +131,3 @@ Sou Desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções qu
 ⭐ Se gostou dos meus projetos, deixe uma estrela!
 
 </div>
-```
